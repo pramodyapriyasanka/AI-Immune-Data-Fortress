@@ -92,7 +92,8 @@ AI-Immune-Data-Fortress/
 
 ```
 ### 📸 AWS Lambda Function:
-<img width="1906" height="874" alt="AWS Lambda Triger " src="https://github.com/user-attachments/assets/ab4b0988-57ff-45ca-86ce-c1f954c614c1" />
+<img width="1906" height="874" alt="AWS Lambda Triger " src="https://github.com/user-attachments/assets/4c63d443-71d3-4deb-9b2b-714ceba12f55" />
+
 
 📸Code overview:
 
