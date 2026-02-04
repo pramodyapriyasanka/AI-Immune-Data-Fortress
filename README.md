@@ -82,4 +82,31 @@ AI-Immune-Data-Fortress/
 ### 💡 Dashboard 
 <img width="1897" height="991" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/14e61e01-bd54-43ad-9886-a39883a268a5" />
 
+```
+```
+
+### 📸 AWS S3 Buckets:
+<img width="1636" height="647" alt="AWS S3 Bucket " src="https://github.com/user-attachments/assets/e284b62e-9777-4107-b3d0-67f70fb0d5fe" />
+
+```
+
+```
+### 📸 AWS Lambda Function:
+<img width="1906" height="874" alt="AWS Lambda Triger " src="https://github.com/user-attachments/assets/ab4b0988-57ff-45ca-86ce-c1f954c614c1" />
+
+📸Code overview:
+
+<img width="1914" height="969" alt="AWS Lambda Code " src="https://github.com/user-attachments/assets/31413bd7-ed1e-48a9-8ba0-8106502b0ed8" />
+
+```
+
+```
+### 📸 AWS CloudWatch Logs:
+<img width="1916" height="908" alt="AWS CloudWatch " src="https://github.com/user-attachments/assets/541b0cc0-3ea8-4454-b72d-5c47350e2734" />
+
+```
+```
+### 📸 Bedrock Metrics:
+<img width="1915" height="1079" alt="Amazon Bedrock Metrics graph" src="https://github.com/user-attachments/assets/e5930524-c2d9-4dd4-a4d2-fd1ccd1971a4" />
+
 
